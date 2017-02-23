@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android Apps\Studio Apps\ContactsList\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Android Apps\Studio Apps\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_64e7425662814e9de313387894d3be943996c5aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suchismita.p\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Android Apps\Studio Apps\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_5987cbb88cae32408010e8b443b77e07159de63f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android Apps\Studio Apps\ContactsList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eca58032d2fa0ab38da61f2b49f632f7f58ea114">
+        <dex dex="C:\Android Apps\Studio Apps\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cba89594b3fdacb1b8ecfadd0206e480f4525928\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android Apps\Studio Apps\ContactsList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="13b8870277b78d71244ebf3d0420dc6b96d5121f">
+        <dex dex="C:\Android Apps\Studio Apps\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_90f0a2ccf6aca8c289e684240db89227a30df748\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android Apps\Studio Apps\ContactsList\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Android Apps\Studio Apps\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_83805be0051e70b46271626ffda33678ab014eb7\classes.dex" />
+    </item>
+
+</items>
